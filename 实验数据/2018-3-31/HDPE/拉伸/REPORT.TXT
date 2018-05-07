@@ -1,0 +1,100 @@
+ID:008050
+  Title:测试日期
+  InputDataD:
+  InputDefault:
+  Decimal:3
+  Offset:    0.0000
+  OptionSX:3
+  OptionY:3
+  Factor:    1.0000
+  S:    1.0000
+  X:    0.0000
+  Y:    0.0000
+  HiLimit:    0.0000
+  LoLimit:    0.0000
+  ShowUnit:1
+  ShowInChart:0
+  DisableResult:0
+  ChangeSpeed:0
+  TotalElong:0
+  Export:0
+ID:008200
+  Title:试件面积
+  InputDataD:
+  InputDefault:
+  Decimal:3
+  Offset:    0.0000
+  OptionSX:3
+  OptionY:3
+  Factor:    1.0000
+  S:    1.0000
+  X:    0.0000
+  Y:    0.0000
+  HiLimit:    0.0000
+  LoLimit:    0.0000
+  ShowUnit:1
+  ShowInChart:0
+  DisableResult:0
+  ChangeSpeed:0
+  TotalElong:0
+  Export:0
+ID:008070
+  Title:力量最大值
+  InputDataD:
+  InputDefault:
+  Decimal:2
+  Offset:    0.0000
+  OptionSX:-1
+  OptionY:-1
+  Factor:    1.0000
+  S:    1.0000N
+  X:    0.0000%
+  Y:    0.0000%
+  HiLimit:    0.0000kgf
+  LoLimit:    0.0000kgf
+  ShowUnit:1
+  ShowInChart:1
+  DisableResult:0
+  ChangeSpeed:0
+  TotalElong:0
+  Export:0
+ID:008070
+  Title:拉伸强度
+  InputDataD:
+  InputDefault:
+  Decimal:2
+  Offset:    0.0000
+  OptionSX:0
+  OptionY:-1
+  Factor:    1.0000
+  S:    1.0000MPa
+  X:    0.0000%
+  Y:    0.0000%
+  HiLimit:    0.0000kgf
+  LoLimit:    0.0000kgf
+  ShowUnit:1
+  ShowInChart:1
+  DisableResult:0
+  ChangeSpeed:0
+  TotalElong:0
+  Export:0
+ID:008090
+  Title:断裂伸长率
+  InputDataD:
+  InputDefault:
+  Decimal:3
+  Offset:    0.0000
+  OptionSX:4
+  OptionY:-1
+  Factor:    1.0000
+  S:    1.0000%
+  X:   30.0000%
+  Y:   50.0000%
+  HiLimit:    0.0000kgf
+  LoLimit:    0.0000kgf
+  ShowUnit:1
+  ShowInChart:1
+  DisableResult:0
+  ChangeSpeed:0
+  TotalElong:0
+  Export:0
